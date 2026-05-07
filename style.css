@@ -1,0 +1,18 @@
+body{
+    background:#1b2b1b;
+    color:white;
+    font-family:Arial;
+    text-align:center;
+    padding:40px;
+}
+
+a{
+    color:lime;
+    font-size:20px;
+    margin:10px;
+    text-decoration:none;
+}
+
+a:hover{
+    color:yellow;
+}
